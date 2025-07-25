@@ -30,16 +30,28 @@ Database for this Electricity Billing System contains 4 tables :-
 SCREENSHOTS :-
 Login page
 <img width="787" height="594" alt="image" src="https://github.com/user-attachments/assets/1f624cbc-9537-4158-937e-58fc71f3c50e" />
+
+
 Main page
 <img width="789" height="595" alt="image" src="https://github.com/user-attachments/assets/0ddda135-25c7-4791-a9dd-97e7ea1e8300" />
+
+
 Add Customer 
 <img width="783" height="895" alt="image" src="https://github.com/user-attachments/assets/3c17826d-67dc-4b19-960c-3817e9d05a09" />
+
+
 Generate Bill
 <img width="488" height="894" alt="image" src="https://github.com/user-attachments/assets/ea31dc20-614b-43b2-b650-ac588d47928b" />
+
+
 Customer Details
 <img width="1189" height="643" alt="image" src="https://github.com/user-attachments/assets/56251380-b286-4f0c-9722-bc9d5438ffa5" />
+
+
 Last Bill
 <img width="490" height="895" alt="image" src="https://github.com/user-attachments/assets/c1a013c2-b352-4dd6-bee3-0b717f682211" />
+
+
 
 
 
